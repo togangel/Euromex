@@ -1,0 +1,16 @@
+#EXTM3U url-tvg="http://exabytetv.info/guia.xml"
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/OQ8LFUL.png" group-title="ENTRETENIMIENTO",LAS ESTRELLAS (OP2)
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" group-title="DEPORTES - SPORTS",REAL MADRID TV (ESPAñA)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ 
+#EXTINF:-1 tvg-id="Adn 40" tvg-name="Adn 40" tvg-logo="http://www.adn40.mx/images/adn40.png" group-title="MUNDO Y CULTURA",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oncetv-ipn.net/generales/wp-content/uploads/2015/12/logo_once_blanco_footer.png" group-title="MUNDO Y CULTURA",CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1095.png" group-title="MUNDO Y CULTURA",DW LATINOAMéRICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
